@@ -7,7 +7,7 @@ const HomePage: FC = () => {
     <div>
       <Navbar />
       <section id="Intro" className="relative">
-        <div className="md:grid md:grid-cols-2">
+        <div className="sm:grid sm:grid-cols-2">
           <div>
             <img src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
