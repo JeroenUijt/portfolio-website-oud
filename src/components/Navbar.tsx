@@ -6,17 +6,16 @@ const Navbar: FC = () => {
   const navigation = [
     { name: "Home", href: "/home" },
     { name: "Projecten", href: "/projects" },
-    { name: "Contact", href: "/contact" },
   ];
 
   return (
-    <nav className="flex h-16 items-center border-b-2 px-8">
+    <nav className="flex h-16 items-center border-b-2 px-2 sm:px-6 lg:px-8">
       <div className="flex justify-self-start">
         <img
           className="h-8 w-auto rounded-full sm:block"
           src="/images/pfp.jpeg"
         />
-        <p className="ml-4 text-xl font-medium text-gray-700">
+        <p className="ml-4 hidden text-xl font-medium text-gray-700 sm:block">
           Jeroen Uijtdewilligen
         </p>
       </div>
