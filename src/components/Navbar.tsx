@@ -9,7 +9,7 @@ const Navbar: FC = () => {
   ];
 
   return (
-    <nav className="flex h-16 items-center border-b-2 px-2 sm:px-6 lg:px-8">
+    <nav className="flex h-16 items-center border-b-2 px-5 lg:px-8">
       <div className="flex justify-self-start">
         <img
           className="h-8 w-auto rounded-full sm:block"

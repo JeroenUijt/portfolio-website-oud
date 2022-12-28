@@ -14,7 +14,7 @@ const HomePage: FC = () => {
           <div className="flex justify-center bg-gradient-to-t from-[#c0f56a] to-[#b5deff] p-4">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
               <h1 className="text-4xl font-semibold">Hoi, ik ben Jeroen!</h1>
-              <h4>Derdejaars student Informatica</h4>
+              <h4>Vierdejaars student Informatica</h4>
               <SocialIcons />
             </div>
           </div>
