@@ -1,5 +1,6 @@
 import React, { FC } from "react";
 import Navbar from "../components/Navbar";
+import ProjectIcons from "../components/ProjectIcons";
 
 const ProjectsPage: FC = () => {
   return (
@@ -12,10 +13,9 @@ const ProjectsPage: FC = () => {
           </div>
           <div className="flex justify-center bg-gradient-to-t from-[#c0f56a] to-[#b5deff] p-4">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
-              <h1 className="text-4xl font-semibold">
-                Hieronder een lijst met al mijn projecten!
-              </h1>
+              <h1 className="text-4xl font-semibold">Mijn projecten!</h1>
               <h4>School & Persoonlijke projecten</h4>
+              <ProjectIcons />
             </div>
           </div>
         </div>
