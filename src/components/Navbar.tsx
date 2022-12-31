@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 const Navbar: FC = () => {
   const navigate = useNavigate();
+  const pathname = window.location.pathname;
   const navigation = [
     { name: "Home", href: "/home" },
     { name: "Projecten", href: "/projects" },
@@ -23,7 +24,7 @@ const Navbar: FC = () => {
         {navigation.map((item) => (
           <button
             key={item.name}
-            className="mx-2 rounded-md bg-white px-4 py-2 font-medium text-slate-400 hover:bg-blue-400 hover:text-white"
+            className="mx-2 rounded-md bg-white px-4 py-2 font-medium text-slate-400 hover:text-slate-600"
             onClick={() => navigate(item.href)}
           >
             {item.name}
