@@ -26,6 +26,7 @@ const SocialIcons: FC = () => {
           className="rounded-full focus:outline-none focus:ring focus:ring-blue-300"
           href={social.href}
           key={social.id}
+          target="_blank"
         >
           <img
             className="rounded-full hover:brightness-75 active:brightness-50"

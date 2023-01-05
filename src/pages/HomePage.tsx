@@ -87,20 +87,9 @@ const HomePage: FC = () => {
           <h1 className="text-4xl font-bold">Vaardigheden:</h1>
           <br />
           <p>
-            Mijn naam is Jeroen Uijtdewilligen. Ik ben 20 jaar en volg de studie
-            Informatica bij Hogeschool Rotterdam. Momenteel zit ik in het derde
-            leerjaar.
-          </p>
-          <br />
-          <p>
-            Mijn passie voor bij Front-End webdevelopment is ontstaan tijdens
-            mijn stage bij Fastware. Het ontwikkelen van websites in
-            samenwerking met klanten is voor mij het leukste wat er is.
-          </p>
-          <br />
-          <p>
-            In mijn vrije tijd speel ik soms videogames en ben ik graag in de
-            natuur.
+            Mijn ervaring in programmeren is momenteel in de talen C#, Python en
+            Php. Ook heb ik gewerkt met Sql en Github. Verder ben ik ook bekend
+            in webdev met Html, Css, Javascript en enkele frameworks.
           </p>
         </div>
       </section>
