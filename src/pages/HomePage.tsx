@@ -26,7 +26,7 @@ const HomePage: FC = () => {
           <br />
           <p>
             Mijn naam is Jeroen Uijtdewilligen. Ik ben 20 jaar en volg de studie
-            Informatica bij Hogeschool Rotterdam. Momenteel zit ik in het derde
+            Informatica bij Hogeschool Rotterdam. Momenteel zit ik in het vierde
             leerjaar.
           </p>
           <br />
