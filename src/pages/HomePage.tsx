@@ -25,7 +25,7 @@ const HomePage: FC = () => {
           <h1 className="text-4xl font-bold">Over mij:</h1>
           <br />
           <p>
-            Mijn naam is Jeroen Uijtdewilligen. Ik ben 20 jaar en volg de studie
+            Mijn naam is Jeroen Uijtdewilligen. Ik ben 21 jaar en volg de studie
             Informatica bij Hogeschool Rotterdam. Momenteel zit ik in het vierde
             leerjaar.
           </p>
