@@ -8,7 +8,7 @@ const HomePage: FC = () => {
       <Navbar />
       <section id="Intro" className="relative">
         <div className="sm:grid sm:grid-cols-2">
-          <div className="h-96 overflow-hidden">
+          <div className="h-200 overflow-hidden">
             <img className="object-cover" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
           <div className="flex justify-center bg-gradient-to-t from-[#c0f56a] to-[#b5deff] p-4">
@@ -25,9 +25,8 @@ const HomePage: FC = () => {
           <h1 className="text-4xl font-bold">Over mij:</h1>
           <br />
           <p>
-            Mijn naam is Jeroen Uijtdewilligen. Ik ben 23 jaar en volg de studie
-            Informatica bij Hogeschool Rotterdam. Momenteel zit ik in het vierde
-            leerjaar.
+            Mijn naam is Jeroen Uijtdewilligen. Ik ben 23 jaar en woon in Bergen op Zoom.
+            Ik ben in 2023 afgestudeerd voor de opleiding HBO Informatica aan Hogeschool Rotterdam.
           </p>
           <br />
           <p>
