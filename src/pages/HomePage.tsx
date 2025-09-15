@@ -26,7 +26,7 @@ const HomePage: FC = () => {
           <br />
           <p>
             Mijn naam is Jeroen Uijtdewilligen. Ik ben 23 jaar en woon in Bergen op Zoom.
-            Ik ben in 2023 afgestudeerd voor de opleiding HBO Informatica aan Hogeschool Rotterdam.
+            Ik ben in 2024 afgestudeerd voor de opleiding HBO Informatica aan Hogeschool Rotterdam.
           </p>
           <br />
           <p>
@@ -60,6 +60,7 @@ const HomePage: FC = () => {
           <a
             className="text-blue-500 hover:text-blue-400 hover:underline"
             href="https://www.fastware.nl/"
+            target="_blank"
           >
             Bezoek website
           </a>
@@ -72,10 +73,11 @@ const HomePage: FC = () => {
           <img src="/images/experience/HR.webp" className="w-22 h-16 px-2" />
           <br />
           <p className="text-lg font-semibold">Informatica</p>
-          <p>September 2019 - Heden</p>
+          <p>September 2019 - Januari 2024</p>
           <a
             className="text-blue-500 hover:text-blue-400 hover:underline"
             href="https://www.hogeschoolrotterdam.nl/"
+            target="_blank"
           >
             Bezoek website
           </a>
