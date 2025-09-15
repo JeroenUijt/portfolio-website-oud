@@ -9,9 +9,9 @@ const ProjectsPage: FC = () => {
       <section id="Intro" className="relative">
         <div className="sm:grid sm:grid-cols-2">
           <div>
-            <img src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
+            <img className="object-cover w-full" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
-          <div className="flex justify-center bg-gradient-to-t from-[#c0f56a] to-[#b5deff] p-4">
+          <div className="flex justify-center bg-gradient-to-t from-[#e1c18e] via-[#a889bc] to-[#e1c18e] p-4">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
               <h1 className="text-4xl font-semibold">Mijn projecten!</h1>
               <h4>School & Persoonlijke projecten</h4>
