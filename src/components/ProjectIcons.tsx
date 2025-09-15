@@ -3,13 +3,8 @@ import { FC } from "react";
 const ProjectIcons: FC = () => {
   const socials = [
     {
-      id: "QoalaGames",
-      href: "https://qoalagames.com/",
-      src: "/images/social/QG.png",
-    },
-    {
       id: "GeekyGeckoGames",
-      href: "https://geekygeckogames.com/",
+      href: "https://store.steampowered.com/app/2213390/Death_Swap_End_As_One/",
       src: "/images/social/GGG.png",
     },
   ];

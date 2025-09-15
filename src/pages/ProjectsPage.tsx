@@ -30,19 +30,11 @@ const ProjectsPage: FC = () => {
             <p>
               Death Swap is een 3D horror game gemaakt tijdens de minor <br />
               Game Development & Design. Dit project hebben we in een <br />
-              samenwerking van 16 personen gerealiseerd. <br /> Meer informatie
-              over dit project is te vinden op onze site:
+              samenwerking van 16 personen gerealiseerd.
             </p>
-            <a
-              className="text-blue-400 hover:text-blue-500"
-              href="https://geekygeckogames.com/"
-              target="_blank"
-            >
-              geekygeckogames.com
-            </a>
             <br />
             <br />
-            <p>De game is vanaf 23 januari 2023 te spelen via Steam!</p>
+            <p>De game is gratis te spelen via Steam!</p>
             <a
               className="text-blue-400 hover:text-blue-500"
               href="https://store.steampowered.com/app/2213390/Death_Swap_End_As_One/"
@@ -66,26 +58,11 @@ const ProjectsPage: FC = () => {
             <p>
               Snatcher is een 2D mobile game gemaakt tijdens de minor <br />
               Game Development & Design. Dit project is in een team van <br />6
-              personen gemaakt in 6 weken. <br /> Meer informatie over dit
-              project is te vinden op onze site:
+              personen gemaakt in 6 weken.
             </p>
-            <a
-              className="text-blue-400 hover:text-blue-500"
-              href="https://qoalagames.com/"
-              target="_blank"
-            >
-              qoalagames.com
-            </a>
             <br />
             <br />
-            <p>De game is nu te spelen via de Google Play Store.</p>
-            <a
-              className="text-blue-400 hover:text-blue-500"
-              href="https://play.google.com/store/apps/details?id=com.QoalaGames.Snatcher&hl=nl"
-              target="_blank"
-            >
-              Link naar de Google Play pagina!
-            </a>
+            <p>De game is momenteel tijdelijk niet te downloaden.</p>
           </div>
           <div>
             <img src="/images/project/Snatcher.png" />
