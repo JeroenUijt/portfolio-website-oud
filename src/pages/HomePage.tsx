@@ -9,7 +9,7 @@ const HomePage: FC = () => {
       <section id="Intro" className="relative">
         <div className="sm:grid sm:grid-cols-2">
           <div>
-            <img src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
+            <img className="object-cover" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
           <div className="flex justify-center bg-gradient-to-t from-[#c0f56a] to-[#b5deff] p-4">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
