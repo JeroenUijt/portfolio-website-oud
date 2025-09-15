@@ -12,11 +12,6 @@ const SocialIcons: FC = () => {
       href: "https://instagram.com/jeroen.uijtdewilligen",
       src: "/images/social/Instagram.svg",
     },
-    {
-      id: "Github",
-      href: "https://github.com/JeroenUijtdewilligen",
-      src: "/images/social/GitHub.svg",
-    },
   ];
 
   return (
