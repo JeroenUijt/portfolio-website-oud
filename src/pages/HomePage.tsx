@@ -8,8 +8,8 @@ const HomePage: FC = () => {
       <Navbar />
       <section id="Intro" className="relative">
         <div className="sm:grid sm:grid-cols-2">
-          <div className="h-200 overflow-hidden">
-            <img className="object-cover" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
+          <div className="h-120 overflow-hidden">
+            <img className="object-cover w-full" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
           <div className="flex justify-center bg-gradient-to-t from-[#c0f56a] to-[#b5deff] p-4">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
