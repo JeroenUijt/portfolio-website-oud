@@ -11,7 +11,7 @@ const HomePage: FC = () => {
           <div className="overflow-hidden">
             <img className="object-cover w-full" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
-          <div className="flex justify-center bg-gradient-to-t from-[#e1c18e] via-[#a889bc] to-[#e1c18e] p-4">
+          <div className="flex justify-centerp-4" style="background: linear-gradient(180deg,rgba(255, 118, 164, 1) 0%, rgba(255, 255, 255, 1) 25%, rgba(192, 17, 215, 1) 50%, rgba(0, 0, 0, 1) 75%, rgba(47, 60, 190, 1) 100%);">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
               <h1 className="text-4xl font-semibold">Hoi, ik ben Jeroen!</h1>
               <h4>Software developer</h4>
@@ -73,7 +73,7 @@ const HomePage: FC = () => {
           <img src="/images/experience/HR.webp" className="w-22 h-16 px-2" />
           <br />
           <p className="text-lg font-semibold">Informatica</p>
-          <p>September 2019 - Januari 2024</p>
+          <p>September 2019 - Februari 2024</p>
           <a
             className="text-blue-500 hover:text-blue-400 hover:underline"
             href="https://www.hogeschoolrotterdam.nl/"
