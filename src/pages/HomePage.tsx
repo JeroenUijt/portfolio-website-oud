@@ -11,7 +11,7 @@ const HomePage: FC = () => {
           <div className="overflow-hidden">
             <img className="object-cover w-full" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
-          <div className="flex justify-center p-4" style={{ background: linear-gradient(180deg,rgba(255, 118, 164, 1) 0%, rgba(255, 255, 255, 1) 25%, rgba(192, 17, 215, 1) 50%, rgba(0, 0, 0, 1) 75%, rgba(47, 60, 190, 1) 100%) }}>
+          <div className="flex justify-center gradient p-4">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
               <h1 className="text-4xl font-semibold">Hoi, ik ben Jeroen!</h1>
               <h4>Software developer</h4>
