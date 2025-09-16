@@ -11,10 +11,10 @@ const HomePage: FC = () => {
           <div className="overflow-hidden">
             <img className="object-cover w-full" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
-          <div className="flex justify-center p-4">
+          <div className="flex justify-center">
             <div className="-z-10 h-full">
               <div className="h-1/2 bg-gradient-to-t from-[#2F3CBE] via-[#000000] to-[#C011D7]"></div>
-              <div className="h-1/2 from-[#C011D7] via-[#FFFFFF] to-[#FF76A4]"></div>
+              <div className="h-1/2 bg-gradient-to-t from-[#C011D7] via-[#FFFFFF] to-[#FF76A4]"></div>
             </div>
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
               <h1 className="text-4xl font-semibold">Hoi, ik ben Jeroen!</h1>
