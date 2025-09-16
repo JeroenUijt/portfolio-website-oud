@@ -8,7 +8,7 @@ const HomePage: FC = () => {
       <Navbar />
       <section id="Intro" className="relative">
         <div className="sm:grid sm:grid-cols-2">
-          <div className="overflow-hidden shadow-[rgba(0,0,0,0.5)_0px_10px_0px_0px] sm:shadow-[rgba(0,0,0,0.5)_10px_0px_0px_0px]">
+          <div className="overflow-hidden">
             <img className="object-cover w-full" src="/images/JeroenUijt.jpeg" alt="Ikzeluf" />
           </div>
           <div className="flex justify-center bg-gradient-to-t from-[#2F3CBE] via-[#C011D7] to-[#FF76A4] p-4">
