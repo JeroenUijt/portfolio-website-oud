@@ -7,11 +7,11 @@ const HomePage: FC = () => {
     <div>
       <Navbar />
       <section id="Intro" className="relative">
-        <div className="sm:grid sm:grid-cols-2 gradient">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gradient">
           <div className="overflow-hidden">
             <img className="object-cover w-full" src="/images/transparent.png" alt="Ikzeluf" />
           </div>
-          <div className="flex justify-center p-4">
+          <div className="flex justify-center p-4 order-1 sm:order-2">
             <div className="self-center rounded-lg bg-gray-700 bg-opacity-50 p-2 text-center text-white">
               <h1 className="text-4xl font-semibold">Hoi, ik ben Jeroen!</h1>
               <h4>Software developer</h4>
