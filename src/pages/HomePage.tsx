@@ -32,7 +32,7 @@ const HomePage: FC = () => {
           <p>
             Alhoewel mijn werkervaring in webdevelopment zit, zijn mijn interesses heel breed. 
             Zo heb ik me verdiept in onderwerpen als artificiële intelligentie en het ontwikkelen van games. 
-            Deze zijn te vinden op mijn <a href="/projects">projectenpagina</a>.
+            Deze zijn te vinden op mijn <a className="text-blue-500 hover:text-blue-400 hover:underline" href="/projects">projectenpagina</a>.
           </p>
           <br />
           <p>
