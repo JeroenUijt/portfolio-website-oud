@@ -26,13 +26,13 @@ const HomePage: FC = () => {
           <br />
           <p>
             Mijn naam is Jeroen Uijtdewilligen. Ik ben 23 jaar en woon in Bergen op Zoom.
-            Ik ben in 2024 afgestudeerd voor de opleiding HBO Informatica aan Hogeschool Rotterdam.
+            In 2024 ben ik afgestudeerd voor de opleiding HBO Informatica aan Hogeschool Rotterdam.
           </p>
           <br />
           <p>
-            Mijn passie voor Front-End webdevelopment is ontstaan tijdens mijn
-            stage bij Fastware. Het ontwikkelen van websites in samenwerking met
-            klanten is voor mij het leukste wat er is.
+            Alhoewel mijn werkervaring in webdevelopment zit, zijn mijn interesses heel breed. 
+            Zo heb ik me verdiept in onderwerpen als artificiële intelligentie en het ontwikkelen van games. 
+            Deze zijn te vinden op mijn <a href="/projects">projectenpagina</a>.
           </p>
           <br />
           <p>

@@ -12,6 +12,11 @@ const SocialIcons: FC = () => {
       href: "https://instagram.com/jeroen.uijtdewilligen",
       src: "/images/social/Instagram.svg",
     },
+    {
+      id: "Spotify",
+      href: "https://open.spotify.com/user/8izpvibrk75uphjfh3fkoq5a4?si=1799be8c1dc24c88",
+      src: "/images/social/Spotify.svg",
+    },
   ];
 
   return (
