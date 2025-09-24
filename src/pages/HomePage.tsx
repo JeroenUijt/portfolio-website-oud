@@ -8,7 +8,7 @@ const HomePage: FC = () => {
       <Navbar />
       <section id="Intro" className="relative">
         <div className="grid grid-cols-1 sm:grid-cols-2 gradient">
-          <div className="overflow-hidden">
+          <div>
             <img className="object-cover w-full" src="/images/transparent.png" alt="Ikzeluf" />
           </div>
           <div className="flex justify-center p-4 order-first sm:order-2">
@@ -30,20 +30,23 @@ const HomePage: FC = () => {
           </p>
           <br />
           <p>
-            Alhoewel mijn werkervaring in webdevelopment zit, zijn mijn interesses heel breed. 
-            Zo heb ik me verdiept in onderwerpen als artificiële intelligentie en het ontwikkelen van games. 
-            Deze zijn te vinden op mijn <a className="text-blue-500 hover:text-blue-400 hover:underline" href="/projects">projectenpagina</a>.
+            todo: toevoegen
           </p>
           <br />
           <p>
-            In mijn vrije tijd speel ik soms videogames en ben ik graag in de
-            natuur.
+            todo: toevoegen
           </p>
         </div>
       </section>
       <section id="Experience" className="bg-gray-100">
         <div className="mx-auto max-w-5xl px-5 py-10 text-gray-700 md:px-8">
           <h1 className="text-4xl font-bold ">Werkervaring:</h1>
+          <br />
+          <p>
+            Alhoewel mijn werkervaring in webdevelopment zit, zijn mijn interesses heel breed. 
+            Zo heb ik me verdiept in onderwerpen als artificiële intelligentie en het ontwikkelen van games. 
+            Deze zijn te vinden op mijn <a className="text-blue-500 hover:text-blue-400 hover:underline" href="/projects">projectenpagina</a>.
+          </p>
           <br />
           <img
             src="/images/experience/fastware.png"
@@ -88,9 +91,7 @@ const HomePage: FC = () => {
           <h1 className="text-4xl font-bold">Vaardigheden:</h1>
           <br />
           <p>
-            Mijn ervaring in programmeren is momenteel in de talen C#, Python en
-            Php. Ook heb ik gewerkt met Sql en Github. Verder ben ik ook bekend
-            in webdev met Html, Css, Javascript en enkele frameworks.
+            todo: toevoegen
           </p>
         </div>
       </section>
