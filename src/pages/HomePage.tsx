@@ -37,8 +37,8 @@ const HomePage: FC = () => {
           </p>
           <br />
           <p>
-            Voor mij is inclusie een belangrijk thema. 
-            Hier zet ik me graag elke dag voor in. 
+            Voor mij is inclusiviteit erg belangrijk. 
+            Ik hou ervan om volledig mezelf te kunnen zijn bij mijn vrienden en familie. 
           </p>
         </div>
       </section>
