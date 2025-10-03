@@ -96,7 +96,7 @@ const HomePage: FC = () => {
           <p>September 2019 - Februari 2024</p>
           <a
             className="text-blue-500 hover:text-blue-400 hover:underline"
-            href="https://www.hogeschoolrotterdam.nl/"
+            href="https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/informatica/voltijd"
             target="_blank"
           >
             Bezoek website
