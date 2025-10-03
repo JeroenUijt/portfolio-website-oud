@@ -105,7 +105,7 @@ const HomePage: FC = () => {
           </a>
         </div>
       </section>
-      <section id="Skills" className="bg-gray-100">
+      {/* <section id="Skills" className="bg-gray-100">
         <div className="mx-auto max-w-5xl px-5 py-10 text-gray-700 md:px-8">
           <h1 className="text-4xl font-bold">Vaardigheden:</h1>
           <br />
@@ -113,7 +113,7 @@ const HomePage: FC = () => {
             todo: toevoegen
           </p>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };
