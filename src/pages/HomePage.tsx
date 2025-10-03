@@ -55,20 +55,35 @@ const HomePage: FC = () => {
             alt="fastware"
             className="w-22 h-12 px-2"
           />
+          <p className="text-xl font-semibold">Full Stack Developer</p>
           <br />
-          <p className="text-lg font-semibold">Fastware</p>
+          <p className="text-lg font-semibold">Full Stack Developer</p>
+          <p>
+            Na het afstuderen heb ik gewerkt als Full Stack developer. 
+            Ik was verantwoordelijk om zelfstandig aan een grootschalig maatwerkpakket te werken.
+          </p>
+          <p>Maart 2024 - Mei 2025 - 1 jaar 3 maanden</p>
+          <br />
+          <p className="text-lg font-semibold">Afstudeerstage</p>
+          <p>
+            Mijn afstudeerstage heb ik bij fastware doorlopen. 
+            Mijn afstudeeropdracht was het ontwikkelen van een import/export module voor een bestaand project.
+          </p>
+          <p>September 2023 - Februari 2024 - 6 maanden</p>
+          <br />
+          <p className="text-lg font-semibold">Web Developer</p>
+          <p>
+            Voor de start van mijn afstudeerstage heb ik kort als webdeveloper gewerkt. 
+            Hier was ik verantwoordelijk voor het ontwikkelen van een interne website.
+          </p>
+          <p> Juli 2023 - September 2023 - 3 maanden</p>
+          <br />
+          <p className="text-lg font-semibold">Derdejaars stage</p>
           <p>
             Bij Fastware heb ik mijn derdejaars stage gelopen met een functie
-            als webdeveloper.
+            als webdeveloper. Mijn stageopdracht was het ontwikkelen van een intern project.
           </p>
           <p>Oktober 2021 - Februari 2022 · 4 maanden</p>
-          <a
-            className="text-blue-500 hover:text-blue-400 hover:underline"
-            href="https://www.fastware.nl/"
-            target="_blank"
-          >
-            Bezoek website
-          </a>
         </div>
       </section>
       <section id="Education" className="mx-auto max-w-5xl px-5 py-10 md:px-8">
