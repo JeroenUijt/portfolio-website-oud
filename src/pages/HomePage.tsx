@@ -30,8 +30,10 @@ const HomePage: FC = () => {
           </p>
           <br />
           <p>
-            Vaak ben ik te vinden in concertzalen of in de platenzaak. 
-            Ik haal elke week wel een nieuw cd'tje in huis.
+            Ik hou ervan om naar concerten te gaan! 
+            Aankomende shows waar ik heen ga zijn Yungblud, Ashnikko, Deftones en de afscheidsshow van Golden Earring. 
+            Ook ben ik erg vaak in de lokale platenzaak te vinden. 
+            Ik haal elke week wel een nieuwe plaat of cd'tje in huis.
           </p>
           <br />
           <p>
