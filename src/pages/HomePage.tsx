@@ -64,21 +64,21 @@ const HomePage: FC = () => {
             Na het afstuderen heb ik gewerkt als Full Stack developer. 
             Ik was verantwoordelijk om zelfstandig aan een grootschalig maatwerkpakket te werken.
           </p>
-          <p>Maart 2024 - Mei 2025 - 1 jaar 3 maanden</p>
+          <p>Maart 2024 - Mei 2025 · 1 jaar 3 maanden</p>
           <br />
           <p className="text-lg font-semibold">Afstudeerstage</p>
           <p>
             Mijn afstudeerstage heb ik bij fastware doorlopen. 
             Mijn afstudeeropdracht was het ontwikkelen van een import/export module voor een bestaand project.
           </p>
-          <p>September 2023 - Februari 2024 - 6 maanden</p>
+          <p>September 2023 - Februari 2024 · 6 maanden</p>
           <br />
           <p className="text-lg font-semibold">Web Developer</p>
           <p>
             Voor de start van mijn afstudeerstage heb ik kort als webdeveloper gewerkt. 
             Hier was ik verantwoordelijk voor het ontwikkelen van een interne website.
           </p>
-          <p> Juli 2023 - September 2023 - 3 maanden</p>
+          <p> Juli 2023 - September 2023 · 3 maanden</p>
           <br />
           <p className="text-lg font-semibold">Derdejaars stage</p>
           <p>
