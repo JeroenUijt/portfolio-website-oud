@@ -30,11 +30,13 @@ const HomePage: FC = () => {
           </p>
           <br />
           <p>
-            todo: toevoegen
+            Vaak ben ik te vinden in concertzalen of in de platenzaak. 
+            Ik haal elke week wel een nieuw cd'tje in huis.
           </p>
           <br />
           <p>
-            todo: toevoegen
+            Voor mij is inclusie een belangrijk thema. 
+            Hier zet ik me graag elke dag voor in. 
           </p>
         </div>
       </section>
