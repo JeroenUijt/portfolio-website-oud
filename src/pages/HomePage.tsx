@@ -55,7 +55,7 @@ const HomePage: FC = () => {
             alt="fastware"
             className="w-22 h-12 px-2"
           />
-          <p className="text-xl font-semibold">Full Stack Developer</p>
+          <p className="text-xl font-semibold">Fastware - Bergen op Zoom</p>
           <br />
           <p className="text-lg font-semibold">Full Stack Developer</p>
           <p>
